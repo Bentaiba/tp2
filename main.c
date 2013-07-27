@@ -24,6 +24,7 @@ int main(int argc, char *argv[])
     else
     {
         printf("erreur");
+        printf("u'r stupid");
     }
     printf("la taille d'un int est %d octets \n",sizeof(int));
     printf("la taille d'un double est %d octet \n",sizeof(double));
